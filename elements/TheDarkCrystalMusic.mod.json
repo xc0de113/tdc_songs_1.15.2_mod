@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "The Dark Crystal Music",
+    "icon": {
+      "value": "Items.RECORD_MALL"
+    },
+    "showSearch": false
+  }
+}

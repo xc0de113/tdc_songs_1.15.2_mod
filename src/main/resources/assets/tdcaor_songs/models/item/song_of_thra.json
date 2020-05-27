@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tdcaor_songs:items/record_mall"
+  }
+}

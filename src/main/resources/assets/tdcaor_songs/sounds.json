@@ -1,0 +1,434 @@
+{
+  "ost_": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:01._the_dark_crystal_age_of_resistance_-_official_ost_-_daniel_pemberton_-_music.film",
+        "stream": false
+      }
+    ]
+  },
+  "another_world_another_time": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:02._another_world_another_time",
+        "stream": false
+      }
+    ]
+  },
+  "story_of_the_dark_crystal": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:03._story_of_the_dark_crystal",
+        "stream": false
+      }
+    ]
+  },
+  "rian_and_mira_dreamfast": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:04._rian__mira_dreamfast",
+        "stream": false
+      }
+    ]
+  },
+  "aughra_awakes": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:05._aughra_awakes_-_the_dark_crystal_age_of_resistance_-_official_ost_-_daniel_pemberton",
+        "stream": false
+      }
+    ]
+  },
+  "the_crystal_chamber": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:06._the_crystal_chamber",
+        "stream": false
+      }
+    ]
+  },
+  "essence_draining": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:07._essence_draining",
+        "stream": false
+      }
+    ]
+  },
+  "into_the_catacombs": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:08._into_the_catacombs",
+        "stream": false
+      }
+    ]
+  },
+  "deet_enters_thra": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:09._deet_enters_thra",
+        "stream": false
+      }
+    ]
+  },
+  "dzenpo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:10._dzenpo",
+        "stream": false
+      }
+    ]
+  },
+  "her_light_faded": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:11._her_light_faded",
+        "stream": false
+      }
+    ]
+  },
+  "what_lies_at_the_dreams_end": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:12._what_lies_at_the_dreams_end",
+        "stream": false
+      }
+    ]
+  },
+  "together_we_fight": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:13._together_we_fight",
+        "stream": false
+      }
+    ]
+  },
+  "the_blue_flames_i": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:14._the_blue_flames_part_i",
+        "stream": false
+      }
+    ]
+  },
+  "thra_is_calling": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:15._thra_is_calling",
+        "stream": false
+      }
+    ]
+  },
+  "outcast": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:16._outcast",
+        "stream": false
+      }
+    ]
+  },
+  "the_journey": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:17._the_journey",
+        "stream": false
+      }
+    ]
+  },
+  "dreamspace": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:19._dreamspace",
+        "stream": false
+      }
+    ]
+  },
+  "speak_for_the_dead": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:20._speak_for_the_dead",
+        "stream": false
+      }
+    ]
+  },
+  "aughra_returns": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:21._aughra_returns__peeper_beetle_ceremony",
+        "stream": false
+      }
+    ]
+  },
+  "the_dark_crystal_age_of_hope": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:22._the_dark_crystal_the_age_of_hope",
+        "stream": false
+      }
+    ]
+  },
+  "an_old_story": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:23._an_old_story",
+        "stream": false
+      }
+    ]
+  },
+  "brea_and_the_library": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:24._brea_and_the_library",
+        "stream": false
+      }
+    ]
+  },
+  "remember_your_oath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:25._remember_your_oath",
+        "stream": false
+      }
+    ]
+  },
+  "the_darkening": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:26._the_darkening",
+        "stream": false
+      }
+    ]
+  },
+  "puppet_show": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:27._puppet_show",
+        "stream": false
+      }
+    ]
+  },
+  "deet_in_the_woods": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:28._deet_in_the_woods",
+        "stream": false
+      }
+    ]
+  },
+  "the_three_brothers_rise": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:29._the_three_brothers_rise",
+        "stream": false
+      }
+    ]
+  },
+  "sisters": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:30._sisters",
+        "stream": false
+      }
+    ]
+  },
+  "outside_podling_wayhouse": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:31._outside_podling_wayhouse",
+        "stream": false
+      }
+    ]
+  },
+  "the_mystics": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:32._the_mystics",
+        "stream": false
+      }
+    ]
+  },
+  "tales_from_the_sanctuary_tree": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:33._tales_from_the_sanctuary_tree",
+        "stream": false
+      }
+    ]
+  },
+  "the_blue_flames_ii": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:34._the_blue_flames_part_ii",
+        "stream": false
+      }
+    ]
+  },
+  "song_of_thra": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:35._song_of_thra",
+        "stream": false
+      }
+    ]
+  },
+  "all-maudra": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:36._all-maudra",
+        "stream": false
+      }
+    ]
+  },
+  "our_sister_is_gone": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:37._our_sister_is_gone",
+        "stream": false
+      }
+    ]
+  },
+  "a_few_traitors": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:38._a_few_traitors",
+        "stream": false
+      }
+    ]
+  },
+  "the_aureyal_the_throne_room": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:39._the_aureyal__the_throne_room",
+        "stream": false
+      }
+    ]
+  },
+  "preperation_for_battle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:40._preperation_for_battle",
+        "stream": false
+      }
+    ]
+  },
+  "attack_of_the_arathim": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:41._attack_of_the_arathim",
+        "stream": false
+      }
+    ]
+  },
+  "the_seven_clans": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:42._the_seven_clans",
+        "stream": false
+      }
+    ]
+  },
+  "a_new_crown": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:43._a_new_crown",
+        "stream": false
+      }
+    ]
+  },
+  "tricky_chamberlain": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:44._tricky_chamberlain",
+        "stream": false
+      }
+    ]
+  },
+  "the_skeksis_arrive": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:45._the_skeksis_arrive",
+        "stream": false
+      }
+    ]
+  },
+  "battle_for_thra": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:46._battle_for_thra",
+        "stream": false
+      }
+    ]
+  },
+  "the_scientist_engineers": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:47._the_scientist_engineers",
+        "stream": false
+      }
+    ]
+  },
+  "end_credits": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:48._the_dark_crystal_end_credits",
+        "stream": false
+      }
+    ]
+  },
+  "the_hunter_the_storm": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tdcaor_songs:18._the_hunter__the_storm",
+        "stream": false
+      }
+    ]
+  }
+}

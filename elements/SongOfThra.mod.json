@@ -1,0 +1,17 @@
+{
+  "_fv": 8,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_mall",
+    "name": "Song of Thra",
+    "description": "Song of Thra",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:song_of_thra"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

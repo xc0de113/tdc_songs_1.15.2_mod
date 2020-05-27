@@ -1,0 +1,290 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TheDarkCrystalMusic",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_dark_crystal_music"
+    },
+    {
+      "name": "SongOfThra",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "song_of_thra"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "ost_",
+      "file": "01._the_dark_crystal_age_of_resistance_-_official_ost_-_daniel_pemberton_-_music.film",
+      "category": "master"
+    },
+    {
+      "name": "another_world_another_time",
+      "file": "02._another_world_another_time",
+      "category": "master"
+    },
+    {
+      "name": "story_of_the_dark_crystal",
+      "file": "03._story_of_the_dark_crystal",
+      "category": "master"
+    },
+    {
+      "name": "rian_and_mira_dreamfast",
+      "file": "04._rian__mira_dreamfast",
+      "category": "master"
+    },
+    {
+      "name": "aughra_awakes",
+      "file": "05._aughra_awakes_-_the_dark_crystal_age_of_resistance_-_official_ost_-_daniel_pemberton",
+      "category": "master"
+    },
+    {
+      "name": "the_crystal_chamber",
+      "file": "06._the_crystal_chamber",
+      "category": "master"
+    },
+    {
+      "name": "essence_draining",
+      "file": "07._essence_draining",
+      "category": "master"
+    },
+    {
+      "name": "into_the_catacombs",
+      "file": "08._into_the_catacombs",
+      "category": "master"
+    },
+    {
+      "name": "deet_enters_thra",
+      "file": "09._deet_enters_thra",
+      "category": "master"
+    },
+    {
+      "name": "dzenpo",
+      "file": "10._dzenpo",
+      "category": "master"
+    },
+    {
+      "name": "her_light_faded",
+      "file": "11._her_light_faded",
+      "category": "master"
+    },
+    {
+      "name": "what_lies_at_the_dreams_end",
+      "file": "12._what_lies_at_the_dreams_end",
+      "category": "master"
+    },
+    {
+      "name": "together_we_fight",
+      "file": "13._together_we_fight",
+      "category": "master"
+    },
+    {
+      "name": "the_blue_flames_i",
+      "file": "14._the_blue_flames_part_i",
+      "category": "master"
+    },
+    {
+      "name": "thra_is_calling",
+      "file": "15._thra_is_calling",
+      "category": "master"
+    },
+    {
+      "name": "outcast",
+      "file": "16._outcast",
+      "category": "master"
+    },
+    {
+      "name": "the_journey",
+      "file": "17._the_journey",
+      "category": "master"
+    },
+    {
+      "name": "dreamspace",
+      "file": "19._dreamspace",
+      "category": "master"
+    },
+    {
+      "name": "speak_for_the_dead",
+      "file": "20._speak_for_the_dead",
+      "category": "master"
+    },
+    {
+      "name": "aughra_returns",
+      "file": "21._aughra_returns__peeper_beetle_ceremony",
+      "category": "master"
+    },
+    {
+      "name": "the_dark_crystal_age_of_hope",
+      "file": "22._the_dark_crystal_the_age_of_hope",
+      "category": "master"
+    },
+    {
+      "name": "an_old_story",
+      "file": "23._an_old_story",
+      "category": "master"
+    },
+    {
+      "name": "brea_and_the_library",
+      "file": "24._brea_and_the_library",
+      "category": "master"
+    },
+    {
+      "name": "remember_your_oath",
+      "file": "25._remember_your_oath",
+      "category": "master"
+    },
+    {
+      "name": "the_darkening",
+      "file": "26._the_darkening",
+      "category": "master"
+    },
+    {
+      "name": "puppet_show",
+      "file": "27._puppet_show",
+      "category": "master"
+    },
+    {
+      "name": "deet_in_the_woods",
+      "file": "28._deet_in_the_woods",
+      "category": "master"
+    },
+    {
+      "name": "the_three_brothers_rise",
+      "file": "29._the_three_brothers_rise",
+      "category": "master"
+    },
+    {
+      "name": "sisters",
+      "file": "30._sisters",
+      "category": "master"
+    },
+    {
+      "name": "outside_podling_wayhouse",
+      "file": "31._outside_podling_wayhouse",
+      "category": "master"
+    },
+    {
+      "name": "the_mystics",
+      "file": "32._the_mystics",
+      "category": "master"
+    },
+    {
+      "name": "tales_from_the_sanctuary_tree",
+      "file": "33._tales_from_the_sanctuary_tree",
+      "category": "master"
+    },
+    {
+      "name": "the_blue_flames_ii",
+      "file": "34._the_blue_flames_part_ii",
+      "category": "master"
+    },
+    {
+      "name": "song_of_thra",
+      "file": "35._song_of_thra",
+      "category": "master"
+    },
+    {
+      "name": "all-maudra",
+      "file": "36._all-maudra",
+      "category": "master"
+    },
+    {
+      "name": "our_sister_is_gone",
+      "file": "37._our_sister_is_gone",
+      "category": "master"
+    },
+    {
+      "name": "a_few_traitors",
+      "file": "38._a_few_traitors",
+      "category": "master"
+    },
+    {
+      "name": "the_aureyal_the_throne_room",
+      "file": "39._the_aureyal__the_throne_room",
+      "category": "master"
+    },
+    {
+      "name": "preperation_for_battle",
+      "file": "40._preperation_for_battle",
+      "category": "master"
+    },
+    {
+      "name": "attack_of_the_arathim",
+      "file": "41._attack_of_the_arathim",
+      "category": "master"
+    },
+    {
+      "name": "the_seven_clans",
+      "file": "42._the_seven_clans",
+      "category": "master"
+    },
+    {
+      "name": "a_new_crown",
+      "file": "43._a_new_crown",
+      "category": "master"
+    },
+    {
+      "name": "tricky_chamberlain",
+      "file": "44._tricky_chamberlain",
+      "category": "master"
+    },
+    {
+      "name": "the_skeksis_arrive",
+      "file": "45._the_skeksis_arrive",
+      "category": "master"
+    },
+    {
+      "name": "battle_for_thra",
+      "file": "46._battle_for_thra",
+      "category": "master"
+    },
+    {
+      "name": "the_scientist_engineers",
+      "file": "47._the_scientist_engineers",
+      "category": "master"
+    },
+    {
+      "name": "end_credits",
+      "file": "48._the_dark_crystal_end_credits",
+      "category": "master"
+    },
+    {
+      "name": "the_hunter_the_storm",
+      "file": "18._the_hunter__the_storm",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabthe_dark_crystal_music": "The Dark Crystal Music",
+      "item.tdcaor_songs.song_of_thra.desc": "Song of Thra",
+      "item.tdcaor_songs.song_of_thra": "Song of Thra"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "tdcaor_songs",
+    "modName": "The Dark Crystal: Age of Resistance Songs",
+    "version": "1.0.0",
+    "author": "Jacob, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "com.jmod.tdcaorsngs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
